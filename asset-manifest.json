@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/route-react/static/css/main.073c9b0a.css",
-    "main.js": "/route-react/static/js/main.2abadc44.js",
-    "static/js/787.44e34201.chunk.js": "/route-react/static/js/787.44e34201.chunk.js",
-    "index.html": "/route-react/index.html",
-    "main.073c9b0a.css.map": "/route-react/static/css/main.073c9b0a.css.map",
-    "main.2abadc44.js.map": "/route-react/static/js/main.2abadc44.js.map",
-    "787.44e34201.chunk.js.map": "/route-react/static/js/787.44e34201.chunk.js.map"
+    "main.css": "/use-ffect-school/static/css/main.073c9b0a.css",
+    "main.js": "/use-ffect-school/static/js/main.347c3b15.js",
+    "static/js/787.44e34201.chunk.js": "/use-ffect-school/static/js/787.44e34201.chunk.js",
+    "index.html": "/use-ffect-school/index.html",
+    "main.073c9b0a.css.map": "/use-ffect-school/static/css/main.073c9b0a.css.map",
+    "main.347c3b15.js.map": "/use-ffect-school/static/js/main.347c3b15.js.map",
+    "787.44e34201.chunk.js.map": "/use-ffect-school/static/js/787.44e34201.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2abadc44.js"
+    "static/js/main.347c3b15.js"
   ]
 }
